@@ -12,3 +12,5 @@ git使用测试
 2. $> git checkout dev
 
 ## 合并 
+1. $> git checkout master
+2. $> git merge dev
