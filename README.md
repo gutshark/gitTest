@@ -8,4 +8,7 @@ git使用测试
 4. $> touch README.md
 
 ## 创建分支
+1. $> git branch dev
+2. $> git checkout dev
+
 ## 合并 
